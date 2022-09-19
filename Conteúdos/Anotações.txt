@@ -1,1 +1,8 @@
 Anotacoes
+
+## adicionar alterações
+git add
+
+## comitar alterações
+
+git commit "Sua Mensagem aqui"
